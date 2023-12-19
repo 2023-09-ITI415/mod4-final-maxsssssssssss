@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - Runestone
   layers:
   - Default
   - TransparentFX
